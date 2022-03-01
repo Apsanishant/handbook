@@ -46,7 +46,7 @@ Dependency definitions belong in the individual module `build.gradle` files:
 ```gradle
 dependencies {
     // (other dependencies)
-    implementation ('org.jitsi.react:jitsi-meet-sdk:3.+') { transitive = true }
+    implementation ('org.jitsi.react:jitsi-meet-sdk:3.9.0') { transitive = true }
 }
 ```
 
